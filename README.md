@@ -1,7 +1,7 @@
 # WarmUp №4. Long arithmetic (sum)
 ---
 ### Task:
-![The task](https://i.imgur.com/D1uVXYQ.png)
+![The task](https://i.imgur.com/NuAldiZ.png)
 
 >The program calculates the sum of the numbers.
 
